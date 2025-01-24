@@ -1,7 +1,7 @@
 
 # Google Calendar Clone
 
-A Google Calendar-inspired application built with modern web technologies like React, Redux Toolkit, and Tailwind CSS. The app provides users with an intuitive and responsive interface for managing events and schedules efficiently.
+A Google Calendar-inspired application built with modern web technologies like React, React Context, and Tailwind CSS. The app provides users with an intuitive and responsive interface for managing events and schedules efficiently.
 
 ![App Screenshot](src/assets/gc.png)
 
